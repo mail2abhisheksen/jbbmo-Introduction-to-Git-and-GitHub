@@ -1,0 +1,301 @@
+id,Gender,Customer Type,Age,Type of Travel,Ease of Online booking,Baggage handling,Inflight service,Arrival Delay in Minutes,satisfaction
+1,Male,disloyal Customer,32,Business travel,3,5,1,132,neutral or dissatisfied
+2,Male,disloyal Customer,26,Personal Travel,5,4,3,112,satisfied
+3,Female,disloyal Customer,24,Business travel,4,5,4,173,neutral or dissatisfied
+4,Male,disloyal Customer,43,Business travel,4,4,2,172,neutral or dissatisfied
+5,Female,Loyal Customer,41,Personal Travel,3,4,2,20,satisfied
+6,Female,disloyal Customer,29,Business travel,5,1,1,77,neutral or dissatisfied
+7,Male,disloyal Customer,77,Personal Travel,4,2,3,149,satisfied
+8,Male,Loyal Customer,37,Personal Travel,3,4,5,29,satisfied
+9,Female,disloyal Customer,73,Business travel,4,3,4,22,neutral or dissatisfied
+10,Female,disloyal Customer,31,Business travel,2,4,4,4,neutral or dissatisfied
+11,Female,disloyal Customer,39,Business travel,2,3,1,62,neutral or dissatisfied
+12,Female,disloyal Customer,33,Personal Travel,3,1,3,58,satisfied
+13,Female,disloyal Customer,46,Personal Travel,4,3,2,81,satisfied
+14,Female,Loyal Customer,49,Business travel,3,1,2,51,neutral or dissatisfied
+15,Female,Loyal Customer,36,Business travel,1,1,5,64,satisfied
+16,Male,Loyal Customer,72,Personal Travel,3,1,2,38,neutral or dissatisfied
+17,Female,Loyal Customer,52,Business travel,3,3,4,2,neutral or dissatisfied
+18,Male,Loyal Customer,60,Business travel,2,3,5,169,neutral or dissatisfied
+19,Male,disloyal Customer,49,Personal Travel,2,1,3,70,neutral or dissatisfied
+20,Female,disloyal Customer,72,Business travel,4,1,5,154,satisfied
+21,Female,disloyal Customer,70,Business travel,3,2,3,155,neutral or dissatisfied
+22,Female,disloyal Customer,37,Business travel,3,1,2,181,satisfied
+23,Female,disloyal Customer,68,Business travel,4,5,1,14,satisfied
+24,Female,disloyal Customer,57,Personal Travel,5,2,5,180,satisfied
+25,Male,disloyal Customer,37,Personal Travel,4,2,5,71,satisfied
+26,Male,disloyal Customer,25,Personal Travel,2,2,4,69,satisfied
+27,Female,disloyal Customer,75,Personal Travel,2,5,4,3,satisfied
+28,Female,disloyal Customer,52,Business travel,3,2,3,93,neutral or dissatisfied
+29,Female,disloyal Customer,59,Business travel,2,2,1,144,satisfied
+30,Female,disloyal Customer,30,Business travel,4,3,4,33,neutral or dissatisfied
+31,Male,disloyal Customer,58,Business travel,3,3,4,123,satisfied
+32,Male,Loyal Customer,23,Personal Travel,4,1,2,133,neutral or dissatisfied
+33,Male,disloyal Customer,64,Business travel,4,1,2,35,neutral or dissatisfied
+34,Female,Loyal Customer,33,Business travel,3,4,4,98,satisfied
+35,Female,disloyal Customer,22,Personal Travel,5,5,3,166,neutral or dissatisfied
+36,Female,disloyal Customer,70,Personal Travel,2,3,1,79,neutral or dissatisfied
+37,Male,disloyal Customer,62,Personal Travel,1,1,4,65,satisfied
+38,Male,Loyal Customer,68,Business travel,1,5,3,135,satisfied
+39,Male,Loyal Customer,51,Personal Travel,1,2,3,142,satisfied
+40,Female,disloyal Customer,23,Business travel,2,5,4,190,satisfied
+41,Male,disloyal Customer,76,Business travel,5,3,3,90,satisfied
+42,Female,disloyal Customer,50,Personal Travel,4,4,5,79,satisfied
+43,Male,disloyal Customer,32,Personal Travel,3,3,3,192,satisfied
+44,Female,Loyal Customer,32,Personal Travel,5,1,4,58,satisfied
+45,Female,Loyal Customer,31,Business travel,1,1,3,9,neutral or dissatisfied
+46,Female,disloyal Customer,56,Business travel,2,5,4,6,satisfied
+47,Female,Loyal Customer,22,Business travel,2,3,2,111,neutral or dissatisfied
+48,Male,Loyal Customer,69,Personal Travel,3,1,4,75,satisfied
+49,Male,disloyal Customer,74,Business travel,4,2,3,11,satisfied
+50,Male,disloyal Customer,43,Business travel,5,2,4,78,satisfied
+51,Female,disloyal Customer,65,Business travel,5,4,1,45,satisfied
+52,Male,Loyal Customer,34,Business travel,5,5,4,31,neutral or dissatisfied
+53,Female,disloyal Customer,60,Personal Travel,4,1,4,159,neutral or dissatisfied
+54,Male,Loyal Customer,64,Business travel,4,4,1,114,satisfied
+55,Male,disloyal Customer,69,Personal Travel,4,2,1,113,neutral or dissatisfied
+56,Female,disloyal Customer,33,Personal Travel,3,4,1,125,satisfied
+57,Female,Loyal Customer,52,Business travel,2,4,5,89,neutral or dissatisfied
+58,Female,Loyal Customer,55,Business travel,1,1,4,60,satisfied
+59,Male,Loyal Customer,70,Personal Travel,4,1,1,196,neutral or dissatisfied
+60,Female,Loyal Customer,40,Business travel,2,1,1,60,neutral or dissatisfied
+61,Male,Loyal Customer,30,Personal Travel,4,5,2,101,neutral or dissatisfied
+62,Male,Loyal Customer,50,Business travel,1,4,5,113,satisfied
+63,Male,disloyal Customer,46,Business travel,4,4,4,173,neutral or dissatisfied
+64,Female,Loyal Customer,70,Personal Travel,2,5,3,195,satisfied
+65,Male,Loyal Customer,63,Business travel,3,2,5,91,neutral or dissatisfied
+66,Female,disloyal Customer,51,Personal Travel,1,3,5,182,satisfied
+67,Female,Loyal Customer,51,Personal Travel,2,2,2,128,satisfied
+68,Male,Loyal Customer,44,Business travel,5,5,4,106,satisfied
+69,Male,disloyal Customer,32,Personal Travel,5,4,4,194,neutral or dissatisfied
+70,Male,disloyal Customer,76,Business travel,5,4,1,48,neutral or dissatisfied
+71,Male,disloyal Customer,67,Business travel,3,1,1,24,satisfied
+72,Female,Loyal Customer,26,Business travel,4,1,5,15,satisfied
+73,Female,disloyal Customer,43,Personal Travel,4,4,2,140,satisfied
+74,Female,Loyal Customer,20,Business travel,4,4,4,179,neutral or dissatisfied
+75,Female,disloyal Customer,53,Business travel,3,1,2,107,neutral or dissatisfied
+76,Female,Loyal Customer,64,Personal Travel,5,1,3,163,neutral or dissatisfied
+77,Female,disloyal Customer,22,Personal Travel,4,2,4,199,neutral or dissatisfied
+78,Female,disloyal Customer,79,Personal Travel,3,4,1,43,neutral or dissatisfied
+79,Female,disloyal Customer,37,Personal Travel,3,4,5,82,satisfied
+80,Female,Loyal Customer,37,Business travel,2,5,2,46,satisfied
+81,Male,Loyal Customer,22,Business travel,4,2,1,123,satisfied
+82,Male,disloyal Customer,27,Business travel,5,3,5,79,satisfied
+83,Female,disloyal Customer,33,Business travel,1,3,1,75,neutral or dissatisfied
+84,Female,disloyal Customer,42,Personal Travel,3,3,4,19,neutral or dissatisfied
+85,Male,disloyal Customer,61,Personal Travel,2,1,2,145,satisfied
+86,Male,Loyal Customer,42,Business travel,1,3,3,181,neutral or dissatisfied
+87,Male,disloyal Customer,47,Personal Travel,3,5,1,11,satisfied
+88,Female,disloyal Customer,31,Personal Travel,2,1,2,111,neutral or dissatisfied
+89,Male,Loyal Customer,39,Personal Travel,4,1,4,152,neutral or dissatisfied
+90,Male,Loyal Customer,60,Personal Travel,2,3,1,59,satisfied
+91,Male,disloyal Customer,45,Personal Travel,3,1,4,74,satisfied
+92,Male,disloyal Customer,47,Business travel,4,2,3,109,satisfied
+93,Male,Loyal Customer,36,Business travel,5,2,3,33,neutral or dissatisfied
+94,Female,Loyal Customer,55,Personal Travel,2,3,5,140,neutral or dissatisfied
+95,Male,disloyal Customer,59,Personal Travel,1,5,5,165,neutral or dissatisfied
+96,Female,Loyal Customer,37,Business travel,4,1,5,139,satisfied
+97,Male,Loyal Customer,52,Business travel,4,4,4,35,satisfied
+98,Male,disloyal Customer,39,Personal Travel,5,3,5,27,satisfied
+99,Male,disloyal Customer,32,Personal Travel,2,1,2,38,neutral or dissatisfied
+100,Male,Loyal Customer,28,Personal Travel,1,3,4,76,neutral or dissatisfied
+101,Male,disloyal Customer,71,Business travel,5,3,4,170,satisfied
+102,Female,disloyal Customer,51,Personal Travel,2,5,5,103,satisfied
+103,Female,disloyal Customer,74,Personal Travel,1,4,5,90,satisfied
+104,Female,disloyal Customer,41,Personal Travel,1,1,4,114,neutral or dissatisfied
+105,Female,disloyal Customer,23,Personal Travel,3,3,3,158,neutral or dissatisfied
+106,Female,Loyal Customer,34,Personal Travel,1,3,3,1,satisfied
+107,Female,Loyal Customer,45,Personal Travel,2,1,5,116,satisfied
+108,Female,disloyal Customer,67,Personal Travel,5,3,3,81,satisfied
+109,Male,disloyal Customer,48,Personal Travel,5,3,2,89,neutral or dissatisfied
+110,Female,disloyal Customer,53,Business travel,3,3,2,41,neutral or dissatisfied
+111,Male,Loyal Customer,72,Business travel,2,2,2,30,neutral or dissatisfied
+112,Male,Loyal Customer,26,Business travel,1,2,4,60,satisfied
+113,Female,Loyal Customer,27,Personal Travel,3,4,4,101,satisfied
+114,Male,Loyal Customer,38,Business travel,4,5,4,55,satisfied
+115,Male,disloyal Customer,75,Business travel,2,1,4,82,satisfied
+116,Female,disloyal Customer,51,Business travel,3,5,4,127,satisfied
+117,Male,Loyal Customer,48,Business travel,5,5,5,13,satisfied
+118,Female,Loyal Customer,46,Business travel,3,2,3,13,satisfied
+119,Male,disloyal Customer,60,Personal Travel,4,4,5,156,satisfied
+120,Female,disloyal Customer,60,Business travel,2,5,3,177,satisfied
+121,Male,disloyal Customer,28,Personal Travel,3,5,5,49,satisfied
+122,Female,disloyal Customer,50,Personal Travel,1,3,2,190,satisfied
+123,Male,disloyal Customer,75,Business travel,2,1,1,100,neutral or dissatisfied
+124,Female,Loyal Customer,63,Personal Travel,3,4,4,192,satisfied
+125,Male,disloyal Customer,78,Business travel,3,1,1,67,satisfied
+126,Male,Loyal Customer,79,Personal Travel,2,2,1,70,neutral or dissatisfied
+127,Female,Loyal Customer,18,Personal Travel,5,5,2,10,satisfied
+128,Male,disloyal Customer,38,Business travel,1,5,1,13,neutral or dissatisfied
+129,Female,Loyal Customer,79,Personal Travel,2,1,1,105,neutral or dissatisfied
+130,Male,Loyal Customer,40,Personal Travel,1,2,2,103,satisfied
+131,Male,disloyal Customer,74,Personal Travel,1,3,3,130,satisfied
+132,Female,Loyal Customer,26,Personal Travel,2,3,5,127,neutral or dissatisfied
+133,Male,disloyal Customer,73,Personal Travel,3,5,1,7,satisfied
+134,Female,disloyal Customer,18,Personal Travel,5,5,4,170,satisfied
+135,Male,Loyal Customer,38,Personal Travel,1,4,2,136,satisfied
+136,Male,disloyal Customer,39,Personal Travel,1,1,1,18,neutral or dissatisfied
+137,Male,disloyal Customer,71,Business travel,3,5,3,139,neutral or dissatisfied
+138,Male,Loyal Customer,21,Personal Travel,2,2,3,154,satisfied
+139,Female,disloyal Customer,18,Business travel,5,1,4,111,satisfied
+140,Female,Loyal Customer,68,Business travel,1,4,1,57,neutral or dissatisfied
+141,Male,Loyal Customer,27,Personal Travel,1,3,4,24,neutral or dissatisfied
+142,Male,disloyal Customer,32,Personal Travel,2,4,3,44,satisfied
+143,Female,Loyal Customer,69,Business travel,3,1,3,101,satisfied
+144,Male,disloyal Customer,53,Business travel,4,3,5,47,satisfied
+145,Female,Loyal Customer,46,Business travel,3,2,3,49,neutral or dissatisfied
+146,Male,disloyal Customer,69,Personal Travel,1,3,2,80,neutral or dissatisfied
+147,Male,disloyal Customer,63,Personal Travel,1,3,5,43,satisfied
+148,Female,Loyal Customer,22,Personal Travel,5,2,4,58,neutral or dissatisfied
+149,Male,Loyal Customer,46,Business travel,3,5,3,160,satisfied
+150,Female,disloyal Customer,64,Personal Travel,4,5,2,102,satisfied
+151,Female,disloyal Customer,64,Personal Travel,5,3,5,77,satisfied
+152,Female,Loyal Customer,44,Personal Travel,4,3,2,155,satisfied
+153,Female,disloyal Customer,42,Personal Travel,5,4,5,17,satisfied
+154,Female,disloyal Customer,33,Business travel,3,5,5,182,neutral or dissatisfied
+155,Female,Loyal Customer,33,Personal Travel,1,2,5,160,neutral or dissatisfied
+156,Male,Loyal Customer,53,Personal Travel,4,3,4,115,satisfied
+157,Female,disloyal Customer,42,Business travel,3,3,5,105,neutral or dissatisfied
+158,Female,Loyal Customer,58,Personal Travel,4,4,5,142,satisfied
+159,Male,Loyal Customer,18,Business travel,3,4,2,188,neutral or dissatisfied
+160,Female,disloyal Customer,22,Business travel,5,4,5,10,neutral or dissatisfied
+161,Male,Loyal Customer,58,Personal Travel,3,1,4,163,neutral or dissatisfied
+162,Female,Loyal Customer,37,Business travel,5,2,2,142,neutral or dissatisfied
+163,Female,disloyal Customer,22,Personal Travel,1,1,5,180,satisfied
+164,Female,Loyal Customer,53,Business travel,5,3,2,61,neutral or dissatisfied
+165,Male,disloyal Customer,46,Business travel,2,4,4,47,neutral or dissatisfied
+166,Male,Loyal Customer,65,Personal Travel,1,4,2,93,neutral or dissatisfied
+167,Female,Loyal Customer,51,Business travel,3,4,4,142,neutral or dissatisfied
+168,Female,disloyal Customer,75,Personal Travel,3,5,3,190,neutral or dissatisfied
+169,Male,Loyal Customer,65,Personal Travel,2,2,5,86,neutral or dissatisfied
+170,Male,Loyal Customer,35,Personal Travel,3,1,4,170,neutral or dissatisfied
+171,Male,Loyal Customer,19,Personal Travel,1,2,5,49,neutral or dissatisfied
+172,Female,Loyal Customer,33,Business travel,1,4,4,59,satisfied
+173,Male,Loyal Customer,46,Personal Travel,5,3,1,58,satisfied
+174,Male,Loyal Customer,50,Business travel,4,5,1,14,satisfied
+175,Male,disloyal Customer,33,Personal Travel,3,2,1,28,neutral or dissatisfied
+176,Male,Loyal Customer,52,Business travel,2,3,4,39,satisfied
+177,Male,Loyal Customer,64,Business travel,1,4,5,30,satisfied
+178,Male,disloyal Customer,79,Business travel,1,4,1,72,satisfied
+179,Male,disloyal Customer,60,Business travel,1,4,5,10,neutral or dissatisfied
+180,Female,disloyal Customer,59,Personal Travel,4,4,4,80,satisfied
+181,Male,Loyal Customer,34,Personal Travel,4,5,5,61,satisfied
+182,Female,disloyal Customer,21,Business travel,3,5,5,135,satisfied
+183,Female,disloyal Customer,66,Business travel,2,2,1,50,satisfied
+184,Male,Loyal Customer,21,Personal Travel,4,4,2,56,satisfied
+185,Female,disloyal Customer,68,Business travel,5,5,3,131,satisfied
+186,Female,Loyal Customer,42,Business travel,4,3,4,163,satisfied
+187,Male,Loyal Customer,50,Personal Travel,1,5,4,146,neutral or dissatisfied
+188,Female,Loyal Customer,31,Business travel,2,5,4,23,satisfied
+189,Male,Loyal Customer,41,Business travel,3,2,3,40,satisfied
+190,Male,Loyal Customer,28,Personal Travel,4,5,2,48,neutral or dissatisfied
+191,Male,disloyal Customer,42,Business travel,1,3,5,173,neutral or dissatisfied
+192,Male,Loyal Customer,45,Personal Travel,5,4,4,35,neutral or dissatisfied
+193,Male,disloyal Customer,24,Personal Travel,5,1,5,9,neutral or dissatisfied
+194,Male,Loyal Customer,66,Personal Travel,3,2,1,77,neutral or dissatisfied
+195,Male,disloyal Customer,53,Personal Travel,3,3,1,134,satisfied
+196,Female,Loyal Customer,27,Business travel,4,2,1,139,satisfied
+197,Male,Loyal Customer,66,Personal Travel,3,4,4,85,satisfied
+198,Female,Loyal Customer,53,Personal Travel,1,5,3,175,neutral or dissatisfied
+199,Male,disloyal Customer,48,Business travel,1,5,4,164,satisfied
+200,Male,disloyal Customer,36,Personal Travel,1,3,1,163,satisfied
+201,Male,disloyal Customer,35,Business travel,4,4,1,59,neutral or dissatisfied
+202,Female,Loyal Customer,66,Personal Travel,4,1,4,95,neutral or dissatisfied
+203,Female,Loyal Customer,23,Personal Travel,3,1,3,7,satisfied
+204,Female,disloyal Customer,45,Personal Travel,4,5,3,134,neutral or dissatisfied
+205,Female,Loyal Customer,24,Personal Travel,1,4,5,106,satisfied
+206,Female,disloyal Customer,55,Business travel,2,4,2,170,neutral or dissatisfied
+207,Female,Loyal Customer,74,Business travel,1,3,1,57,satisfied
+208,Male,disloyal Customer,29,Business travel,2,1,3,80,satisfied
+209,Male,disloyal Customer,58,Personal Travel,3,3,1,85,satisfied
+210,Female,Loyal Customer,67,Personal Travel,5,2,2,173,neutral or dissatisfied
+211,Female,disloyal Customer,51,Personal Travel,4,4,1,33,neutral or dissatisfied
+212,Female,Loyal Customer,42,Business travel,4,1,3,83,neutral or dissatisfied
+213,Female,Loyal Customer,34,Personal Travel,1,3,5,116,neutral or dissatisfied
+214,Female,Loyal Customer,70,Business travel,1,5,4,199,satisfied
+215,Male,disloyal Customer,50,Business travel,2,2,4,21,satisfied
+216,Male,disloyal Customer,40,Business travel,4,3,3,148,satisfied
+217,Male,disloyal Customer,26,Personal Travel,3,5,3,14,satisfied
+218,Male,Loyal Customer,23,Personal Travel,1,1,2,132,neutral or dissatisfied
+219,Male,Loyal Customer,79,Personal Travel,4,1,1,101,neutral or dissatisfied
+220,Male,disloyal Customer,19,Personal Travel,5,2,2,144,neutral or dissatisfied
+221,Male,Loyal Customer,55,Business travel,2,5,4,199,neutral or dissatisfied
+222,Male,Loyal Customer,26,Business travel,1,4,1,146,satisfied
+223,Female,disloyal Customer,20,Personal Travel,1,1,2,4,neutral or dissatisfied
+224,Female,disloyal Customer,33,Personal Travel,3,4,4,22,neutral or dissatisfied
+225,Male,Loyal Customer,42,Personal Travel,1,4,1,82,neutral or dissatisfied
+226,Male,Loyal Customer,41,Business travel,4,3,5,13,satisfied
+227,Male,disloyal Customer,64,Personal Travel,4,3,5,9,satisfied
+228,Female,disloyal Customer,46,Business travel,4,1,2,30,satisfied
+229,Female,Loyal Customer,61,Business travel,5,4,3,140,neutral or dissatisfied
+230,Male,Loyal Customer,72,Business travel,5,3,1,126,satisfied
+231,Female,Loyal Customer,57,Business travel,1,5,2,149,satisfied
+232,Male,disloyal Customer,43,Business travel,5,5,3,36,satisfied
+233,Male,Loyal Customer,55,Business travel,5,5,3,166,satisfied
+234,Male,Loyal Customer,52,Business travel,3,5,1,137,satisfied
+235,Male,Loyal Customer,40,Personal Travel,5,4,1,30,satisfied
+236,Male,Loyal Customer,21,Personal Travel,2,5,3,170,neutral or dissatisfied
+237,Female,Loyal Customer,76,Personal Travel,2,4,4,98,neutral or dissatisfied
+238,Male,Loyal Customer,59,Business travel,2,1,2,163,satisfied
+239,Male,disloyal Customer,31,Business travel,1,1,1,34,neutral or dissatisfied
+240,Male,disloyal Customer,70,Personal Travel,4,5,3,110,satisfied
+241,Male,disloyal Customer,73,Business travel,3,5,4,67,neutral or dissatisfied
+242,Female,Loyal Customer,64,Business travel,1,5,5,182,satisfied
+243,Male,disloyal Customer,56,Business travel,4,1,3,116,neutral or dissatisfied
+244,Male,Loyal Customer,24,Business travel,3,3,4,195,satisfied
+245,Female,Loyal Customer,25,Business travel,3,1,5,125,satisfied
+246,Male,Loyal Customer,59,Business travel,3,5,4,174,neutral or dissatisfied
+247,Male,Loyal Customer,68,Business travel,2,3,1,5,satisfied
+248,Male,Loyal Customer,36,Business travel,2,3,3,118,neutral or dissatisfied
+249,Male,disloyal Customer,19,Business travel,2,2,5,155,satisfied
+250,Female,disloyal Customer,64,Business travel,3,4,4,29,satisfied
+251,Male,disloyal Customer,18,Business travel,3,5,5,154,satisfied
+252,Male,Loyal Customer,59,Business travel,2,4,2,68,satisfied
+253,Female,disloyal Customer,55,Personal Travel,3,2,3,107,neutral or dissatisfied
+254,Male,Loyal Customer,71,Business travel,2,4,1,166,neutral or dissatisfied
+255,Male,disloyal Customer,30,Business travel,2,5,5,34,neutral or dissatisfied
+256,Female,disloyal Customer,59,Personal Travel,2,2,4,102,neutral or dissatisfied
+257,Male,disloyal Customer,61,Personal Travel,4,4,5,43,neutral or dissatisfied
+258,Female,disloyal Customer,41,Personal Travel,3,1,4,142,satisfied
+259,Male,disloyal Customer,49,Business travel,1,3,5,159,satisfied
+260,Female,disloyal Customer,47,Business travel,2,2,1,28,neutral or dissatisfied
+261,Male,Loyal Customer,23,Personal Travel,1,1,1,190,satisfied
+262,Male,Loyal Customer,55,Personal Travel,4,5,3,5,neutral or dissatisfied
+263,Female,Loyal Customer,50,Personal Travel,3,3,1,26,satisfied
+264,Male,Loyal Customer,61,Business travel,2,2,5,27,neutral or dissatisfied
+265,Female,Loyal Customer,72,Business travel,2,3,5,132,satisfied
+266,Female,disloyal Customer,40,Personal Travel,2,2,1,168,satisfied
+267,Female,Loyal Customer,27,Business travel,1,2,2,55,neutral or dissatisfied
+268,Female,Loyal Customer,74,Business travel,4,4,5,111,satisfied
+269,Male,Loyal Customer,63,Personal Travel,3,3,3,53,neutral or dissatisfied
+270,Female,Loyal Customer,32,Personal Travel,4,3,2,79,satisfied
+271,Male,Loyal Customer,77,Personal Travel,2,1,1,104,neutral or dissatisfied
+272,Male,Loyal Customer,40,Business travel,4,5,4,17,satisfied
+273,Female,Loyal Customer,73,Business travel,1,1,5,42,neutral or dissatisfied
+274,Female,Loyal Customer,53,Business travel,5,4,4,88,satisfied
+275,Male,Loyal Customer,74,Business travel,5,2,3,73,satisfied
+276,Female,disloyal Customer,79,Business travel,3,4,2,156,neutral or dissatisfied
+277,Male,Loyal Customer,18,Personal Travel,3,4,4,9,neutral or dissatisfied
+278,Female,Loyal Customer,25,Business travel,4,1,3,133,neutral or dissatisfied
+279,Male,disloyal Customer,20,Business travel,3,2,4,88,neutral or dissatisfied
+280,Male,disloyal Customer,31,Personal Travel,1,5,4,131,satisfied
+281,Female,Loyal Customer,34,Personal Travel,2,4,3,33,satisfied
+282,Male,Loyal Customer,51,Personal Travel,2,5,5,82,satisfied
+283,Male,Loyal Customer,64,Personal Travel,4,2,4,160,satisfied
+284,Female,disloyal Customer,23,Business travel,2,2,3,131,satisfied
+285,Female,Loyal Customer,22,Business travel,4,1,4,171,neutral or dissatisfied
+286,Female,disloyal Customer,63,Personal Travel,3,3,5,97,neutral or dissatisfied
+287,Female,disloyal Customer,68,Business travel,3,1,3,30,neutral or dissatisfied
+288,Female,disloyal Customer,58,Personal Travel,1,5,4,79,neutral or dissatisfied
+289,Male,disloyal Customer,57,Business travel,2,1,1,193,neutral or dissatisfied
+290,Male,disloyal Customer,46,Business travel,1,2,5,185,satisfied
+291,Female,Loyal Customer,52,Business travel,5,4,4,59,satisfied
+292,Male,Loyal Customer,35,Personal Travel,1,3,2,1,neutral or dissatisfied
+293,Male,disloyal Customer,57,Personal Travel,4,2,3,35,neutral or dissatisfied
+294,Male,disloyal Customer,65,Business travel,4,4,4,197,neutral or dissatisfied
+295,Male,disloyal Customer,47,Business travel,1,5,5,124,satisfied
+296,Male,disloyal Customer,32,Personal Travel,3,5,5,187,neutral or dissatisfied
+297,Female,Loyal Customer,70,Personal Travel,5,5,2,150,neutral or dissatisfied
+298,Female,disloyal Customer,32,Business travel,1,1,2,102,neutral or dissatisfied
+299,Male,disloyal Customer,33,Business travel,3,5,4,174,satisfied
+300,Male,Loyal Customer,74,Personal Travel,1,5,1,115,neutral or dissatisfied
